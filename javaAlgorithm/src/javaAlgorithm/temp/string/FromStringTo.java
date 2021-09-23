@@ -22,7 +22,7 @@ public class FromStringTo {
 		// toCharArray() : 11ms
 		beforeTime = System.currentTimeMillis();
 		
-		for (int i = 0; i < COUNT; i++) {
+		for(int i = 0; i < COUNT; i++) {
 			char[] arr = ch.toCharArray();
 		}
 		

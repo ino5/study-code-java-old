@@ -7,7 +7,7 @@ public class CutBar {
 	public static void main(String[] args) {
 		int[] arr = {5, 4, 4, 2, 2, 8};
 		Scanner scanner = new Scanner(System.in);
-		int n = Integer.parseInt(scanner.nextLine();
+		int n = Integer.parseInt(scanner.nextLine());
 		System.out.println(n);
 		while(true) {
 			int min = Integer.MAX_VALUE;
