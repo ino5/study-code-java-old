@@ -1,4 +1,4 @@
-package javaAlgorithm.temp.level1_12935;
+package javaAlgorithm.level1_12935;
 
 import java.util.*;
 

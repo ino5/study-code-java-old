@@ -1,4 +1,4 @@
-package javaAlgorithm.temp.string;
+package javaAlgorithm.string;
 
 import java.util.Arrays;
 
