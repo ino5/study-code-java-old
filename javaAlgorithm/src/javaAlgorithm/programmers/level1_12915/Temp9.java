@@ -1,4 +1,4 @@
-package javaAlgorithm.level1_12915;
+package javaAlgorithm.programmers.level1_12915;
 
 public class Temp9 {
 	public static void main(String[] args) {
