@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.s3;
+package javaAlgorithm.baekjoon.silver.s3;
 
 import java.util.*;
 

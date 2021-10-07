@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.b4;
+package javaAlgorithm.baekjoon.bronze.b4;
 
 import java.util.Scanner;
 
