@@ -1,1 +1,1 @@
-# study-java-algorithm
+# study-java
