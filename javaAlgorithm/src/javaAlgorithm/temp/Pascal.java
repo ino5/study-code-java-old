@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 /*
 [파스칼의 삼각형]
 파스칼의 삼각형은 수학의 이항계수를 삼각형의 형태로 숫자를 배열한 구성을 의미한다.

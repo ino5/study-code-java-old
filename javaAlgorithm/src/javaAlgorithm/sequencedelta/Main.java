@@ -1,4 +1,4 @@
-package javaAlgorithm.sequencedelta;
+package javaalgorithm.sequencedelta;
 
 /*  
  * 길이가 5인 배열이 주어진다. 각 배열의 요소 중 하나의 값만 -1이고 나머지 값은 0이상의 정수이다.

@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 
 import java.util.Scanner;
 

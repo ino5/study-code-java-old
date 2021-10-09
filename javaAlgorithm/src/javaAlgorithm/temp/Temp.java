@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 
 public class Temp {
     public static int solution(int num) {

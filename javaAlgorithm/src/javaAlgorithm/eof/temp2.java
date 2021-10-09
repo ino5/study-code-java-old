@@ -1,4 +1,4 @@
-package javaAlgorithm.eof;
+package javaalgorithm.eof;
 
 import java.util.Scanner;
 

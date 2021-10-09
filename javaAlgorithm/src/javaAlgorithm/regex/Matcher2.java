@@ -1,4 +1,4 @@
-package javaAlgorithm.regex;
+package javaalgorithm.regex;
 
 import java.util.regex.*;
 

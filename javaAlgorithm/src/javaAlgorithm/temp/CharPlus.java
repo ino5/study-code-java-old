@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 
 public class CharPlus {
 	public static void main(String[] args) {

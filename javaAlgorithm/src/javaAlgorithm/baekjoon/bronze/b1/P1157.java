@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.bronze.b1;
+package javaalgorithm.baekjoon.bronze.b1;
 
 import java.util.HashMap;
 import java.util.Map;

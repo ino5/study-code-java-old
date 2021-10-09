@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.bronze.b3;
+package javaalgorithm.baekjoon.bronze.b3;
 
 import java.io.*;
 import java.util.*;

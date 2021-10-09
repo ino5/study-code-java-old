@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 /*
 문제 : 정렬된 배열 nums1과 nums2가 주어지고, 각각의 크기는 m과 n이다.
 정렬을 유지하면서 nums1배열부터 채워나가 nums2까지 확장해보자

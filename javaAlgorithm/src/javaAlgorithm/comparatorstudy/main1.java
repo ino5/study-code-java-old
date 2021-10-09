@@ -1,4 +1,4 @@
-package javaAlgorithm.comparatorstudy;
+package javaalgorithm.comparatorstudy;
 
 import java.util.*;
 

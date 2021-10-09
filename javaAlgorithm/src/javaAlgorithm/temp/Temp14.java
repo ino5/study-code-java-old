@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 
 public class Temp14 {
 	// 민희꺼 디버깅

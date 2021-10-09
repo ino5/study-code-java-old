@@ -1,4 +1,4 @@
-package javaAlgorithm.temp;
+package javaalgorithm.temp;
 
 public class MyLinkedListMain {
 	public static void main(String[] args) {

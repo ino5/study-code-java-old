@@ -1,4 +1,4 @@
-package javaAlgorithm.palindrome;
+package javaalgorithm.palindrome;
 
 /*
 문제: 문자열이 주어지면 해당 문자열이 회문인지 아닌지 확인하자.

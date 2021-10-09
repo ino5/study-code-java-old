@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.gold.g5;
+package javaalgorithm.baekjoon.gold.g5;
 
 import java.util.Scanner;
 

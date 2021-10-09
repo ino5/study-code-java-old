@@ -1,4 +1,4 @@
-package javaAlgorithm.temp2;
+package javaalgorithm.temp2;
 
 public class Temp3 {
 	public static void main(String[] args) {

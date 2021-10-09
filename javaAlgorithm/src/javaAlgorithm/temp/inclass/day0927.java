@@ -1,4 +1,4 @@
-package javaAlgorithm.temp.inclass;
+package javaalgorithm.temp.inclass;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.HashMap;

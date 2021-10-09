@@ -1,4 +1,4 @@
-package javaAlgorithm.temp2;
+package javaalgorithm.temp2;
 
 import java.util.Iterator;
 import java.util.TreeSet;

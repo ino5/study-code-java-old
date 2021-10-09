@@ -1,4 +1,4 @@
-package javaAlgorithm.string;
+package javaalgorithm.string;
 
 public class ExploreMethods {
 	public static void main(String[] args) {

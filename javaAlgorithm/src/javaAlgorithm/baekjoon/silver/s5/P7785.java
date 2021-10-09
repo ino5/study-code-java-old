@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.silver.s5;
+package javaalgorithm.baekjoon.silver.s5;
 
 import java.util.*;
 

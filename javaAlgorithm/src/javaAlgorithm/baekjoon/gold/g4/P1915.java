@@ -1,4 +1,4 @@
-package javaAlgorithm.baekjoon.gold.g4;
+package javaalgorithm.baekjoon.gold.g4;
 
 import java.util.*;
 import java.io.*;
